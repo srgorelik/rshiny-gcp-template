@@ -2,7 +2,7 @@
 set -e
 
 # set GCP project ID
-PROJECT_ID='shiny-project'
+PROJECT_ID='rshiny-project'
 
 # set GCP project region
 REGION='us-central1'
